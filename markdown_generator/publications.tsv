@@ -1,0 +1,137 @@
+pub_date	title	venue	excerpt	citation	url_slug
+ 2020	 Learning variable-length representation of words	 Pattern Recognit.	 Debasis Ganguly	 volume 103		
+ 2020	 InfecTracer: Approximate Nearest Neighbors Retrieval of GPS Location Traces to Retrieve Susceptible Cases	 CoRR	 Chandan Biswas and Debasis Ganguly	 volume abs/2004.08851		
+ 2020	 Towards Socially Responsible AI: Cognitive Bias-Aware Multi-Objective Learning	 CoRR	 Procheta Sen and Debasis Ganguly	 volume abs/2005.06618		
+ 2019	 Estimating Gaussian mixture models in the local neighbourhood of embedded word vectors for query performance prediction	 Inf. Process. Manag.	 Dwaipayan Roy and Debasis Ganguly and Mandar Mitra and Gareth J. F. Jones	 volume 56		
+ 2019	 Extracting Factual Min/Max Age Information from Clinical Trial Studies	 CoRR	 Yufang Hou and Debasis Ganguly and L\'ea A. Deleris and Francesca Bonin	 volume abs/1904.03262		
+ 2019	 Identification of Tasks	 Datasets	 Yufang Hou and Charles Jochim and Martin Gleize and Francesca Bonin and Debasis Ganguly	 Evaluation Metrics		
+ 2018	 Retrieving and classifying instances of source code plagiarism	 Inf. Retr. J.	 Debasis Ganguly and Gareth J. F. Jones and Aar\'on Ram\'\irez-de-la-Cruz and Gabriela Ram\'\irez-de-la-Rosa and Esa\'u Villatoro-Tello	 volume 21		
+ 2018	 A non-parametric topical relevance model	 Inf. Retr. J.	 Debasis Ganguly and Gareth J. F. Jones	 volume 21		
+ 2018	 Exploitation of Social Media for Emergency Relief and Preparedness: Recent Research and Trends	 Inf. Syst. Frontiers	 Saptarshi Ghosh and Kripabandhu Ghosh and Debasis Ganguly and Tanmoy Chakraborty and Gareth J. F. Jones and Marie-Francine Moens and Muhammad Imran	 volume 20		
+ 2018	 An Embedding Based IR Model for Disaster Situations	 Inf. Syst. Frontiers	 Ayan Bandyopadhyay and Debasis Ganguly and Mandar Mitra and Sanjoy Kumar Saha and Gareth J. F. Jones	 volume 20		
+ 2018	 To Clean or Not to Clean: Document Preprocessing and Reproducibility	 J. Data and Information Quality	 Dwaipayan Roy and Mandar Mitra and Debasis Ganguly	 volume 10		
+ 2018	 A Fast Partitional Clustering Algorithm based on Nearest Neighbours Heuristics	 Pattern Recognit. Lett.	 Debasis Ganguly	 volume 112		
+ 2018	 Report on the Second Workshop on Exploitation of Social Media for Emergency Relief and Preparedness (SMERP 2018) at the Web Conference (WWW) 2018	 SIGIR Forum	 Saptarshi Ghosh and Kripabandhu Ghosh and Debasis Ganguly and Tanmoy Chakraborty and Gareth J. F. Jones and Marie-Francine Moens	 volume 52		
+ 2017	 ECIR 2017 Workshop on Exploitation of Social Media for Emergency Relief and Preparedness (SMERP 2017)	 SIGIR Forum	 Saptarshi Ghosh and Kripabandhu Ghosh and Debasis Ganguly and Tanmoy Chakraborty and Gareth J. F. Jones and Marie-Francine Moens	 volume 51		
+ 2017	 Named Entity Recognition with Word Embeddings and Wikipedia Categories for a Low-Resource Language	 ACM Trans. Asian Low Resour. Lang. Inf. Process.	 Arjun Das and Debasis Ganguly and Utpal Garain	 volume 16		
+ 2016	 Utilisation of Metadata Fields and Query Expansion in Cross-Lingual Search of User-Generated Internet Video	 J. Artif. Intell. Res.	 Ahmad Khwileh and Debasis Ganguly and Gareth J. F. Jones	 volume 55		
+ 2016	 FaDA: Fast Document Aligner using Word Embedding	 Prague Bull. Math. Linguistics	 Pintu Lohar and Debasis Ganguly and Haithem Afli and Andy Way and Gareth J. F. Jones	 volume 106		
+ 2016	 A Semisupervised Tag-Transition-Based Markovian Model for Uyghur Morphology Analysis	 ACM Trans. Asian Low Resour. Lang. Inf. Process.	 Eziz Tursun and Debasis Ganguly and Osman Turghun and Yating Yang and Ghalip Abdukerim and Junlin Zhou and Qun Liu	 volume 16		
+ 2016	 Representing Documents and Queries as Sets of Word Embedded Vectors for Information Retrieval	 CoRR	 Dwaipayan Roy and Debasis Ganguly and Mandar Mitra and Gareth J. F. Jones	 volume abs/1606.07869		
+pub_date	title	venue	excerpt	citation	url_slug
+ 2019	 Identification of Tasks	 Datasets	 Yufang Hou and Charles Jochim and Martin Gleize and Francesca Bonin and Debasis Ganguly	 Evaluation Metrics		
+ 2019	 Privacy Preserving Approximate K-means Clustering	 CIKM	 Chandan Biswas and Debasis Ganguly and Dwaipayan Roy and Ujjwal Bhattacharya	 pages 1321--1330		
+ 2019	 I-REX: A Lucene Plugin for EXplainable IR	 CIKM	 Dwaipayan Roy and Sourav Saha and Mandar Mitra and Bihan Sen and Debasis Ganguly	 pages 2949--2952		
+ 2019	 A Factored Relevance Model for Contextual Point-of-Interest Recommendation	 ICTIR	 Anirban Chakraborty and Debasis Ganguly and Annalina Caputo and S\'eamus Lawless	 pages 157--164		
+ 2019	 Word-Node2Vec: Improving Word Embedding with Document-Level Non-Local Word Co-occurrences	 NAACL-HLT (1)	 Procheta Sen and Debasis Ganguly and Gareth J. F. Jones	 pages 1041--1051		
+ 2019	 LIRME: Locally Interpretable Ranking Model Explanation	 SIGIR	 Manisha Verma and Debasis Ganguly	 pages 1281--1284		
+ 2018	 Using Word Embeddings for Information Retrieval: How Collection and Term Normalization Choices Affect Performance	 CIKM	 Dwaipayan Roy and Debasis Ganguly and Sumit Bhatia and Srikanta Bedathur and Mandar Mitra	 pages 1835--1838		
+ 2018	 Overview of the CLEF 2018 Personalised Information Retrieval Lab (PIR-CLEF 2018)	 CLEF (Working Notes)	 Gabriella Pasi and Gareth J. F. Jones and Keith Curtis and Stefania Marrara and Camilla Sanvitto and Debasis Ganguly and Procheta Sen	 series CEUR Workshop Proceedings		
+ 2018	 Evaluation of Personalised Information Retrieval at CLEF 2018 (PIR-CLEF)	 CLEF	 Gabriella Pasi and Gareth J. F. Jones and Keith Curtis and Stefania Marrara and Camilla Sanvitto and Debasis Ganguly and Procheta Sen	 series Lecture Notes in Computer Science		
+ 2018	 Word Embedding based Semantic Cross-Lingual Document Alignment in Comparable Corpora	 FIRE	 Debasis Ganguly and Haithem Afli and Dwaipayan Roy	 pages 28--34		
+ 2018	 Unsupervised Information Extraction from Behaviour Change Literature	 MIE	 Debasis Ganguly and L\'ea A. Deleris and Pol Mac Aonghusa and Alison J. Wright and Ailbhe N. Finnerty and Emma Norris and Marta M. Marques and Susan Michie	 series Studies in Health Technology and Informatics		
+ 2018	 Decision Conversations Decoded	 NAACL-HLT (Demonstrations)	 L\'ea A. Deleris and Debasis Ganguly and Killian Levacher and Martin Stephenson and Francesca Bonin	 pages 91--95		
+ 2018	 Tempo-Lexical Context Driven Word Embedding for Cross-Session Search Task Extraction	 NAACL-HLT	 Procheta Sen and Debasis Ganguly and Gareth J. F. Jones	 pages 283--292		
+ 2018	 Procrastination is the Thief of Time: Evaluating the Effectiveness of Proactive Search Systems	 SIGIR	 Procheta Sen and Debasis Ganguly and Gareth J. F. Jones	 pages 1157--1160		
+ 2018	 Contextual Word Embedding: A Case Study in Clustering Tweets about Emergency Situations	 WWW (Companion Volume)	 Debasis Ganguly and Kripabandhu Ghosh	 pages 73--74		
+ 2018	 WWW'18 Workshop on Exploitation of Social Media for Emergency Relief and Preparedness: Chairs' Welcome \& Organization	 WWW (Companion Volume)	 Marie-Francine Moens and Gareth J. F. Jones and Saptarshi Ghosh and Debasis Ganguly and Tanmoy Chakraborty and Kripabandhu Ghosh	 pages 1609--1611		
+ 2017	 Evaluation of Personalised Information Retrieval at CLEF 2017 (PIR-CLEF): Towards a Reproducible Evaluation Framework for PIR	 CLEF (Working Notes)	 Gabriella Pasi and Gareth J. F. Jones and Stefania Marrara and Camilla Sanvitto and Debasis Ganguly and Procheta Sen	 series CEUR Workshop Proceedings		
+ 2017	 Overview of the CLEF 2017 Personalised Information Retrieval Pilot Lab (PIR-CLEF 2017)	 CLEF	 Gabriella Pasi and Gareth J. F. Jones and Stefania Marrara and Camilla Sanvitto and Debasis Ganguly and Procheta Sen	 series Lecture Notes in Computer Science		
+ 2016	 Word Vector Compositionality based Relevance Feedback using Kernel Density Estimation	 CIKM	 Dwaipayan Roy and Debasis Ganguly and Mandar Mitra and Gareth J. F. Jones	 pages 1281--1290		
+ 2016	 A Gamified Approach to Relevance Judgement	 CLEF	 Debasis Ganguly and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2016	 Using WordNet for Query Expansion: ADAPT @ FIRE 2016 Microblog Track	 FIRE (Working Notes)	 Wei Li and Debasis Ganguly and Gareth J. F. Jones	 series CEUR Workshop Proceedings		
+ 2016	 Joint Estimation of Topics and Hashtag Relevance in Cross-Lingual Tweets	 ICTIR	 Procheta Sen and Debasis Ganguly and Gareth J. F. Jones	 pages 291--294		
+ 2016	 Nearest Neighbour based Transformation Functions for Text Classification: A Case Study with StackOverflow	 ICTIR	 Piyush Arora and Debasis Ganguly and Gareth J. F. Jones	 pages 299--302		
+ 2016	 Developing a Dataset for Evaluating Approaches for Document Expansion with Images	 LREC	 Debasis Ganguly and Iacer Calixto and Gareth J. F. Jones	 publisher European Language Resources Association (ELRA)		
+ 2016	 A Laboratory-Based Method for the Evaluation of Personalised Search	 EVIA@NTCIR	 Camilla Sanvitto and Debasis Ganguly and Gareth J. F. Jones and Gabriella Pasi	 publisher National Institute of Informatics (NII)		
+ 2016	 Retrievability of Code Mixed Microblogs	 SIGIR	 Debasis Ganguly and Ayan Bandyopadhyay and Mandar Mitra and Gareth J. F. Jones	 pages 973--976		
+ 2016	 Dublin City University and Partners' Participation in the INS and VTT Tracks at TRECVid 2016	 TRECVID	 Mark Marsden and Eva Mohedano and Kevin McGuinness and Andrea Calafell and Xavier Gir\'o-i-Nieto and Noel E. O'Connor and Jiang Zhou and Lucas Azevedo and Tobias Daudert and Brian Davis and Manuela H\"urlimann and Haithem Afli and Jinhua Du and Debasis Ganguly and Wei Li and Andy Way and Alan F. Smeaton	 publisher National Institute of Standards and Technology (NIST)		
+ 2015	 The Good	 the Bad and their Kins: Identifying Questions with Negative Scores in StackOverflow	 Piyush Arora and Debasis Ganguly and Gareth J. F. Jones	 ASONAM		
+ 2015	 An Investigation of Cross-Language Information Retrieval for User-Generated Internet Video	 CLEF	 Ahmad Khwileh and Debasis Ganguly and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2015	 Context-driven Dimensionality Reduction for Clustering Text Documents	 FIRE	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 1--7		
+ 2015	 Overview of the Automated Story Illustration Task at FIRE 2015	 FIRE Workshops	 Debasis Ganguly and Iacer Calixto and Gareth J. F. Jones	 series CEUR Workshop Proceedings		
+ 2015	 Partially Labeled Supervised Topic Models for RetrievingSimilar Questions in CQA Forums	 ICTIR	 Debasis Ganguly and Gareth J. F. Jones	 pages 161--170		
+ 2015	 Word Embedding based Generalized Language Model for Information Retrieval	 SIGIR	 Debasis Ganguly and Dwaipayan Roy and Mandar Mitra and Gareth J. F. Jones	 pages 795--798		
+ 2015	 ADAPT.DCU at TREC LiveQA: A Sentence Retrieval based Approach to Live Question Answering	 TREC	 Dasha Bogdanova and Debasis Ganguly and Jennifer Foster and Ali Hosseinzadeh Vahid	 series NIST Special Publication		
+ 2014	 Automatic Prediction of Aesthetics and Interestingness of Text Passages	 COLING	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 905--916		
+ 2014	 DCU@FIRE-2014: An Information Retrieval Approach for Source Code Plagiarism Detection	 FIRE	 Debasis Ganguly and Gareth J. F. Jones	 pages 39--42		
+ 2014	 DCU@FIRE-2014: Fuzzy Queries with Rule-based Normalization for Mixed Script Information Retrieval	 FIRE	 Debasis Ganguly and Santanu Pal and Gareth J. F. Jones	 pages 80--85		
+ 2014	 Retrieval of similar chess positions	 SIGIR	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 687--696		
+ 2013	 A Case Study in Decompounding for Bengali Information Retrieval	 CLEF	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2013	 DCU@Morpheme Extraction Task of FIRE-2012: Rule-based Stemmers for Bengali and Hindi	 FIRE	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 12:1--12:5		
+ 2013	 An LDA-smoothed relevance model for document expansion: a case study for spoken document retrieval	 SIGIR	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 1057--1060		
+ 2013	 TopicVis: a GUI for topic-based feedback and navigation	 SIGIR	 Debasis Ganguly and Manisha Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 1103--1104		
+ 2012	 Topical Relevance Model	 AIRS	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2012	 DCU@INEX-2012: Exploring Sentence Retrieval for Tweet Contextualization	 CLEF (Online Working Notes/Labs/Workshop)	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series CEUR Workshop Proceedings		
+ 2012	 Cross-Lingual Topical Relevance Models	 COLING	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 927--942		
+ 2012	 Approximate Sentence Retrieval for Scalable and Efficient Example-Based Machine Translation	 COLING	 Johannes Leveling and Debasis Ganguly and Sandipan Dandapat and Gareth J. F. Jones	 pages 1571--1586		
+ 2011	 Utilizing sub-topical structure of documents for information retrieval	 PIKM@CIKM	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 75--78		
+ 2011	 Patent query reduction using pseudo relevance feedback	 CIKM	 Debasis Ganguly and Johannes Leveling and Walid Magdy and Gareth J. F. Jones	 pages 1953--1956		
+ 2011	 Simulation of Within-Session Query Variations Using a Text Segmentation Approach	 CLEF	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2011	 Overview of the Personalized and Collaborative Information Retrieval (PIR) Track at FIRE-2011	 FIRE	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2011	 Towards evaluation of personalized and collaborative information retrieval	 PMHR@HT	 Debasis Ganguly and Johannes Leveling and Wei Li and Gareth J. F. Jones	 pages 34--41		
+ 2011	 Enhanced Information Retrieval Using Domain-Specific Recommender Models	 ICTIR	 Wei Li and Debasis Ganguly and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2011	 Query Expansion for Language Modeling Using Sentence Similarities	 IRFC	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2010	 Term Conflation and Blind Relevance Feedback for Information Retrieval on Indian Languages	 FIRE	 Johannes Leveling and Debasis Ganguly and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2010	 DCU and ISI@INEX 2010: Adhoc and Data-Centric Tracks	 INEX	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones and Sauparna Palchowdhury and Sukomal Pal and Mandar Mitra	 series Lecture Notes in Computer Science		
+ 2010	 Exploring Accumulative Query Expansion for Relevance Feedback	 INEX	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2009	 Parameter Tuning in Pivoted Normalization for XML Retrieval: ISI@INEX09 Adhoc Focused Task	 INEX	 Sukomal Pal and Mandar Mitra and Debasis Ganguly	 series Lecture Notes in Computer Science		
+ 2008	 Indian Statistical Institute at INEX 2008 Adhoc Track	 INEX	 Sukomal Pal and Mandar Mitra and Debasis Ganguly and Samaresh Maiti and Ayan Bandyopadhyay and Aparajita Sen and Sukanya Mitra	 series Lecture Notes in Computer Science		
+ 2019	 Identification of Tasks	 Datasets	 Yufang Hou and Charles Jochim and Martin Gleize and Francesca Bonin and Debasis Ganguly	 Evaluation Metrics		
+ 2019	 Privacy Preserving Approximate K-means Clustering	 CIKM	 Chandan Biswas and Debasis Ganguly and Dwaipayan Roy and Ujjwal Bhattacharya	 pages 1321--1330		
+ 2019	 I-REX: A Lucene Plugin for EXplainable IR	 CIKM	 Dwaipayan Roy and Sourav Saha and Mandar Mitra and Bihan Sen and Debasis Ganguly	 pages 2949--2952		
+ 2019	 A Factored Relevance Model for Contextual Point-of-Interest Recommendation	 ICTIR	 Anirban Chakraborty and Debasis Ganguly and Annalina Caputo and S\'eamus Lawless	 pages 157--164		
+ 2019	 Word-Node2Vec: Improving Word Embedding with Document-Level Non-Local Word Co-occurrences	 NAACL-HLT (1)	 Procheta Sen and Debasis Ganguly and Gareth J. F. Jones	 pages 1041--1051		
+ 2019	 LIRME: Locally Interpretable Ranking Model Explanation	 SIGIR	 Manisha Verma and Debasis Ganguly	 pages 1281--1284		
+ 2018	 Using Word Embeddings for Information Retrieval: How Collection and Term Normalization Choices Affect Performance	 CIKM	 Dwaipayan Roy and Debasis Ganguly and Sumit Bhatia and Srikanta Bedathur and Mandar Mitra	 pages 1835--1838		
+ 2018	 Overview of the CLEF 2018 Personalised Information Retrieval Lab (PIR-CLEF 2018)	 CLEF (Working Notes)	 Gabriella Pasi and Gareth J. F. Jones and Keith Curtis and Stefania Marrara and Camilla Sanvitto and Debasis Ganguly and Procheta Sen	 series CEUR Workshop Proceedings		
+ 2018	 Evaluation of Personalised Information Retrieval at CLEF 2018 (PIR-CLEF)	 CLEF	 Gabriella Pasi and Gareth J. F. Jones and Keith Curtis and Stefania Marrara and Camilla Sanvitto and Debasis Ganguly and Procheta Sen	 series Lecture Notes in Computer Science		
+ 2018	 Word Embedding based Semantic Cross-Lingual Document Alignment in Comparable Corpora	 FIRE	 Debasis Ganguly and Haithem Afli and Dwaipayan Roy	 pages 28--34		
+ 2018	 Unsupervised Information Extraction from Behaviour Change Literature	 MIE	 Debasis Ganguly and L\'ea A. Deleris and Pol Mac Aonghusa and Alison J. Wright and Ailbhe N. Finnerty and Emma Norris and Marta M. Marques and Susan Michie	 series Studies in Health Technology and Informatics		
+ 2018	 Decision Conversations Decoded	 NAACL-HLT (Demonstrations)	 L\'ea A. Deleris and Debasis Ganguly and Killian Levacher and Martin Stephenson and Francesca Bonin	 pages 91--95		
+ 2018	 Tempo-Lexical Context Driven Word Embedding for Cross-Session Search Task Extraction	 NAACL-HLT	 Procheta Sen and Debasis Ganguly and Gareth J. F. Jones	 pages 283--292		
+ 2018	 Procrastination is the Thief of Time: Evaluating the Effectiveness of Proactive Search Systems	 SIGIR	 Procheta Sen and Debasis Ganguly and Gareth J. F. Jones	 pages 1157--1160		
+ 2018	 Contextual Word Embedding: A Case Study in Clustering Tweets about Emergency Situations	 WWW (Companion Volume)	 Debasis Ganguly and Kripabandhu Ghosh	 pages 73--74		
+ 2018	 WWW'18 Workshop on Exploitation of Social Media for Emergency Relief and Preparedness: Chairs' Welcome \& Organization	 WWW (Companion Volume)	 Marie-Francine Moens and Gareth J. F. Jones and Saptarshi Ghosh and Debasis Ganguly and Tanmoy Chakraborty and Kripabandhu Ghosh	 pages 1609--1611		
+ 2017	 Evaluation of Personalised Information Retrieval at CLEF 2017 (PIR-CLEF): Towards a Reproducible Evaluation Framework for PIR	 CLEF (Working Notes)	 Gabriella Pasi and Gareth J. F. Jones and Stefania Marrara and Camilla Sanvitto and Debasis Ganguly and Procheta Sen	 series CEUR Workshop Proceedings		
+ 2017	 Overview of the CLEF 2017 Personalised Information Retrieval Pilot Lab (PIR-CLEF 2017)	 CLEF	 Gabriella Pasi and Gareth J. F. Jones and Stefania Marrara and Camilla Sanvitto and Debasis Ganguly and Procheta Sen	 series Lecture Notes in Computer Science		
+ 2016	 Word Vector Compositionality based Relevance Feedback using Kernel Density Estimation	 CIKM	 Dwaipayan Roy and Debasis Ganguly and Mandar Mitra and Gareth J. F. Jones	 pages 1281--1290		
+ 2016	 A Gamified Approach to Relevance Judgement	 CLEF	 Debasis Ganguly and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2016	 Using WordNet for Query Expansion: ADAPT @ FIRE 2016 Microblog Track	 FIRE (Working Notes)	 Wei Li and Debasis Ganguly and Gareth J. F. Jones	 series CEUR Workshop Proceedings		
+ 2016	 Joint Estimation of Topics and Hashtag Relevance in Cross-Lingual Tweets	 ICTIR	 Procheta Sen and Debasis Ganguly and Gareth J. F. Jones	 pages 291--294		
+ 2016	 Nearest Neighbour based Transformation Functions for Text Classification: A Case Study with StackOverflow	 ICTIR	 Piyush Arora and Debasis Ganguly and Gareth J. F. Jones	 pages 299--302		
+ 2016	 Developing a Dataset for Evaluating Approaches for Document Expansion with Images	 LREC	 Debasis Ganguly and Iacer Calixto and Gareth J. F. Jones	 publisher European Language Resources Association (ELRA)		
+ 2016	 A Laboratory-Based Method for the Evaluation of Personalised Search	 EVIA@NTCIR	 Camilla Sanvitto and Debasis Ganguly and Gareth J. F. Jones and Gabriella Pasi	 publisher National Institute of Informatics (NII)		
+ 2016	 Retrievability of Code Mixed Microblogs	 SIGIR	 Debasis Ganguly and Ayan Bandyopadhyay and Mandar Mitra and Gareth J. F. Jones	 pages 973--976		
+ 2016	 Dublin City University and Partners' Participation in the INS and VTT Tracks at TRECVid 2016	 TRECVID	 Mark Marsden and Eva Mohedano and Kevin McGuinness and Andrea Calafell and Xavier Gir\'o-i-Nieto and Noel E. O'Connor and Jiang Zhou and Lucas Azevedo and Tobias Daudert and Brian Davis and Manuela H\"urlimann and Haithem Afli and Jinhua Du and Debasis Ganguly and Wei Li and Andy Way and Alan F. Smeaton	 publisher National Institute of Standards and Technology (NIST)		
+ 2015	 The Good	 the Bad and their Kins: Identifying Questions with Negative Scores in StackOverflow	 Piyush Arora and Debasis Ganguly and Gareth J. F. Jones	 ASONAM		
+ 2015	 An Investigation of Cross-Language Information Retrieval for User-Generated Internet Video	 CLEF	 Ahmad Khwileh and Debasis Ganguly and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2015	 Context-driven Dimensionality Reduction for Clustering Text Documents	 FIRE	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 1--7		
+ 2015	 Overview of the Automated Story Illustration Task at FIRE 2015	 FIRE Workshops	 Debasis Ganguly and Iacer Calixto and Gareth J. F. Jones	 series CEUR Workshop Proceedings		
+ 2015	 Partially Labeled Supervised Topic Models for RetrievingSimilar Questions in CQA Forums	 ICTIR	 Debasis Ganguly and Gareth J. F. Jones	 pages 161--170		
+ 2015	 Word Embedding based Generalized Language Model for Information Retrieval	 SIGIR	 Debasis Ganguly and Dwaipayan Roy and Mandar Mitra and Gareth J. F. Jones	 pages 795--798		
+ 2015	 ADAPT.DCU at TREC LiveQA: A Sentence Retrieval based Approach to Live Question Answering	 TREC	 Dasha Bogdanova and Debasis Ganguly and Jennifer Foster and Ali Hosseinzadeh Vahid	 series NIST Special Publication		
+ 2014	 Automatic Prediction of Aesthetics and Interestingness of Text Passages	 COLING	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 905--916		
+ 2014	 DCU@FIRE-2014: An Information Retrieval Approach for Source Code Plagiarism Detection	 FIRE	 Debasis Ganguly and Gareth J. F. Jones	 pages 39--42		
+ 2014	 DCU@FIRE-2014: Fuzzy Queries with Rule-based Normalization for Mixed Script Information Retrieval	 FIRE	 Debasis Ganguly and Santanu Pal and Gareth J. F. Jones	 pages 80--85		
+ 2014	 Retrieval of similar chess positions	 SIGIR	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 687--696		
+ 2013	 A Case Study in Decompounding for Bengali Information Retrieval	 CLEF	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2013	 DCU@Morpheme Extraction Task of FIRE-2012: Rule-based Stemmers for Bengali and Hindi	 FIRE	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 12:1--12:5		
+ 2013	 An LDA-smoothed relevance model for document expansion: a case study for spoken document retrieval	 SIGIR	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 1057--1060		
+ 2013	 TopicVis: a GUI for topic-based feedback and navigation	 SIGIR	 Debasis Ganguly and Manisha Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 1103--1104		
+ 2012	 Topical Relevance Model	 AIRS	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2012	 DCU@INEX-2012: Exploring Sentence Retrieval for Tweet Contextualization	 CLEF (Online Working Notes/Labs/Workshop)	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series CEUR Workshop Proceedings		
+ 2012	 Cross-Lingual Topical Relevance Models	 COLING	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 927--942		
+ 2012	 Approximate Sentence Retrieval for Scalable and Efficient Example-Based Machine Translation	 COLING	 Johannes Leveling and Debasis Ganguly and Sandipan Dandapat and Gareth J. F. Jones	 pages 1571--1586		
+ 2011	 Utilizing sub-topical structure of documents for information retrieval	 PIKM@CIKM	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 pages 75--78		
+ 2011	 Patent query reduction using pseudo relevance feedback	 CIKM	 Debasis Ganguly and Johannes Leveling and Walid Magdy and Gareth J. F. Jones	 pages 1953--1956		
+ 2011	 Simulation of Within-Session Query Variations Using a Text Segmentation Approach	 CLEF	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2011	 Overview of the Personalized and Collaborative Information Retrieval (PIR) Track at FIRE-2011	 FIRE	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2011	 Towards evaluation of personalized and collaborative information retrieval	 PMHR@HT	 Debasis Ganguly and Johannes Leveling and Wei Li and Gareth J. F. Jones	 pages 34--41		
+ 2011	 Enhanced Information Retrieval Using Domain-Specific Recommender Models	 ICTIR	 Wei Li and Debasis Ganguly and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2011	 Query Expansion for Language Modeling Using Sentence Similarities	 IRFC	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2010	 Term Conflation and Blind Relevance Feedback for Information Retrieval on Indian Languages	 FIRE	 Johannes Leveling and Debasis Ganguly and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2010	 DCU and ISI@INEX 2010: Adhoc and Data-Centric Tracks	 INEX	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones and Sauparna Palchowdhury and Sukomal Pal and Mandar Mitra	 series Lecture Notes in Computer Science		
+ 2010	 Exploring Accumulative Query Expansion for Relevance Feedback	 INEX	 Debasis Ganguly and Johannes Leveling and Gareth J. F. Jones	 series Lecture Notes in Computer Science		
+ 2009	 Parameter Tuning in Pivoted Normalization for XML Retrieval: ISI@INEX09 Adhoc Focused Task	 INEX	 Sukomal Pal and Mandar Mitra and Debasis Ganguly	 series Lecture Notes in Computer Science		
+ 2008	 Indian Statistical Institute at INEX 2008 Adhoc Track	 INEX	 Sukomal Pal and Mandar Mitra and Debasis Ganguly and Samaresh Maiti and Ayan Bandyopadhyay and Aparajita Sen and Sukanya Mitra	 series Lecture Notes in Computer Science		
