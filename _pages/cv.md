@@ -10,6 +10,8 @@ published: true
 
 {% include base_path %}
 
+* [Complete CV](zuacubd.github.io/files/CV.pdf) 
+
 APPOINTMENTS
 ===============
 * **September 2019 ~ Present: Postdoctoral Researcher**  
