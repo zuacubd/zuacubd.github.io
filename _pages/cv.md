@@ -10,7 +10,7 @@ published: true
 
 {% include base_path %}
 
-* [Complete CV](zuacubd.github.io/files/CV.pdf) 
+[Complete CV](https://zuacubd.github.io/files/CV.pdf) 
 
 APPOINTMENTS
 ===============
