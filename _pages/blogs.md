@@ -10,27 +10,34 @@ published: true
 ```
 
 # Joining two files vertically
-  awk 'NF' file1 file > result
+```awk 'NF' file1 file > result
+```
 
 # Moving files using awk
-> ll | awk -F' ' '{if($5<=20 && NF>=9) {cmd="mv "$9" ../backup/"$9; system(cmd) } }'
+```ll | awk -F' ' '{if($5<=20 && NF>=9) {cmd="mv "$9" ../backup/"$9; system(cmd) } }'
+```
 
 # Choose the column line and then print the parts (sed and awk)
-> sed -n '1p' /projets/sig/mullah/ir/projects/l2rsc-risk/adhoc_old/COVID21_Expansion_all.mat | awk -F ' ' '{for(i=1;i<=NF;i++) print i":"$i; }'
+```sed -n '1p' /projets/sig/mullah/ir/projects/l2rsc-risk/adhoc_old/COVID21_Expansion_all.mat | awk -F ' ' '{for(i=1;i<=NF;i++) print i":"$i; }'
+```
 
 # Symbolic link (two files)
-> ln -s source_file new_file
+```ln -s source_file new_file
+```
 
 # Split a files into parts
-> split -l 50000 fused-run/combsum_runs fused-run/
+```split -l 50000 fused-run/combsum_runs fused-run/
+```
 
 # Installing softwares in user space
-> easy_install --prefix=$HOME/local package_name
+```easy_install --prefix=$HOME/local package_name
+```
 
 # Installing a software package in linux 
-> ./configure --prefix=<instalation directory>
-> make 
-> make install 
+```./configure --prefix=<instalation directory>
+make 
+make install 
+```
 
 # Installing with a configuration file but cmake list
 > mkdir build
