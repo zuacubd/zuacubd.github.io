@@ -6,10 +6,10 @@ published: true
 ---
 
 # List of all directories with size
-> du -sh *
+  du -sh *
 
 # Joining two files vertically
-> awk 'NF' file1 file > result
+  awk 'NF' file1 file > result
 
 # Moving files using awk
 > ll | awk -F' ' '{if($5<=20 && NF>=9) {cmd="mv "$9" ../backup/"$9; system(cmd) } }'
