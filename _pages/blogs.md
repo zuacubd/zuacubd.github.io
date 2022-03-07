@@ -6,7 +6,7 @@ published: true
 ---
 
 # List of all directories with size
-```
+```List of all directories with size
 du -sh *
 ```
 
