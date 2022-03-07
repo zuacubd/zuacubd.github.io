@@ -6,7 +6,9 @@ published: true
 ---
 
 # List of all directories with size
-  du -sh *
+```
+du -sh *
+```
 
 # Joining two files vertically
   awk 'NF' file1 file > result
