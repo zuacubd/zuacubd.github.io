@@ -5,7 +5,7 @@ author_profile: true
 published: true
 ---
 
-# Linux OS Useful Commands
+## Linux OS Useful Commands
 
 ### List of all directories with size
 `du -sh *`
@@ -38,21 +38,23 @@ published: true
 `cd build`
 `cmake .. --DCMAKE_INSTALL_PREFIX=<instalation director>`
 
-## Showing the permission mode of a file
+### Showing the permission mode of a file
 `stat -c %a file.sh`
 
-## Changing permission as (full permissions for the owner, read-only for the group, and nothing for the other users)
+### Changing permission as (full permissions for the owner, read-only for the group, and nothing for the other users)
 `chmod 740 file.sh`
 
-# Slurm cluster commands
+
+## Slurm cluster commands
 
 ### Slurm osirim commands
 `scontrol show job jobid(#xxxxx)`
 
-## Show the available resources
+### Show the available resources
 `sinfo --Node -o %N:%C`
 
-# Working with Git
+
+## Working with Git
 
 ### Initiate a git project
 `git init`
@@ -71,12 +73,14 @@ published: true
 ### Pull from a remote repository
 `git pull https://github.com/zuacubd/xxxxx.git`
 
-# Useful R commands
+
+## Useful R commands
 
 ### Update an R package
 `update.packages(checkBuilt = TRUE, ask = FALSE)`
 
-# Virtual environment for Python
+
+## Virtual environment for Python
 ### Create a virtual environment
 `python3 -m venv env_name`
 
@@ -99,7 +103,8 @@ published: true
 ### Deactivating a virtual environment using Conda
 `conda deactivate`
 
-# Working with Singularity
+
+## Working with Singularity
 
 ### Creating a singularity image from a recipe file 
 `sudo singularity build growl-llo-world.sif recipe_file`
