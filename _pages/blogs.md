@@ -7,20 +7,20 @@ published: true
 
 ## Linux OS Useful Commands
 
-### List of all directories with size
+List all directories with size:
 `du -sh *`
 
-### Find all files containg a string 'pathlib" and ending wiht ".py"
+Find all files containg a string 'pathlib" and ending wiht ".py", for example:
 `find . -name '*.py' -exec grep -H 'pathlib' {} +`
 
-### Joining two files vertically
+Join two files vertically:
 `awk 'NF' file1 file > result`
 
-### Moving files using awk
+Move some particular files from one directory to another using AWK:
 `ll | awk -F' ' '{if($5<=20 && NF>=9) {cmd="mv "$9" ../backup/"$9; system(cmd) } }'`
 
-### Choose the column line and then print the parts (sed and awk)
-`sed -n '1p' /projets/sig/mullah/ir/projects/l2rsc-risk/adhoc_old/COVID21_Expansion_all.mat | awk -F ' ' '{for(i=1;i<=NF;i++) print i":"$i; }'`
+Choose the first row and then print the parts (sed and AWK):
+`sed -n '1p' /*/*/COVID21_Expansion_all.mat | awk -F ' ' '{for(i=1;i<=NF;i++) print i":"$i; }'`
 
 ### Symbolic link (two files)
 `ln -s source_file new_file`
