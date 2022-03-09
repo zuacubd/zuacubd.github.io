@@ -6,19 +6,19 @@ published: true
 ---
 
 ## List of all directories with size
-du -sh *
+`du -sh *`
 
 ## Joining two files vertically
-awk 'NF' file1 file > result
+`awk 'NF' file1 file > result`
 
 ## Moving files using awk
-ll | awk -F' ' '{if($5<=20 && NF>=9) {cmd="mv "$9" ../backup/"$9; system(cmd) } }'
+`ll | awk -F' ' '{if($5<=20 && NF>=9) {cmd="mv "$9" ../backup/"$9; system(cmd) } }'`
 
 ## Choose the column line and then print the parts (sed and awk)
-sed -n '1p' /projets/sig/mullah/ir/projects/l2rsc-risk/adhoc_old/COVID21_Expansion_all.mat | awk -F ' ' '{for(i=1;i<=NF;i++) print i":"$i; }'
+`sed -n '1p' /projets/sig/mullah/ir/projects/l2rsc-risk/adhoc_old/COVID21_Expansion_all.mat | awk -F ' ' '{for(i=1;i<=NF;i++) print i":"$i; }'`
 
 ## Symbolic link (two files)
-ln -s source_file new_file
+`ln -s source_file new_file`
 
 ## Split a files into parts
 split -l 50000 fused-run/combsum_runs fused-run/
