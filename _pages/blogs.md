@@ -10,6 +10,9 @@ published: true
 ### List of all directories with size
 `du -sh *`
 
+### Find all files containg a string 'pathlib" and ending wiht ".py"
+`find . -name '*.py' -exec grep -H 'pathlib' {} +`
+
 ### Joining two files vertically
 `awk 'NF' file1 file > result`
 
