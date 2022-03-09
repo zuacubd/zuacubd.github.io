@@ -7,11 +7,11 @@ published: true
 
 ### Linux OS Useful Commands
 
-List all directories with size:
+ List all directories with size:
 
 `du -sh *`
 
-Find all files containg a string 'pathlib" and ending wiht ".py", for example:
+Find all files containg a string 'pathlib" and ending with ".py", for example:
 
 `find . -name '*.py' -exec grep -H 'pathlib' {} +`
 
@@ -35,7 +35,7 @@ Split a files into parts:
 
 `split -l 50000 fused-run/combsum_runs fused-run/`
 
-Install softwares in user space:
+Install softwares in a folder:
 
 `easy_install --prefix=$HOME/local package_name`
 
