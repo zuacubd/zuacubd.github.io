@@ -7,7 +7,7 @@ published: true
 
 ### Linux OS Useful Commands
 
- List all directories with size:
+###### List all directories with size:
 
 `du -sh *`
 
