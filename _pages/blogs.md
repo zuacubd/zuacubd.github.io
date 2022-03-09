@@ -101,7 +101,7 @@ Pull from a remote repository:
 
 ### Useful R commands
 
-Update an R package:
+Update all R package:
 
 `update.packages(checkBuilt = TRUE, ask = FALSE)`
 
