@@ -14,7 +14,9 @@ published: true
 1. _**Md Zia Ullah**_ et al., Comparison of machine learning models for -early- depression detection from users’ posts, Springer, 2021 (In production)
 
 
-### International Journals
+### Journal Articles (Peer-Reviewed and Published)
+
+1. Josiane Mothe, _**Md Zia Ullah**_, Guenter Okon, Thomas Schweer, Alfansos Juršenas, Justina Mandravickaite (2022), Instruments and Tools to Identify Radical Textual Content, MDPI Information, 28 pages, pp.1-28, Volume 13, Issue 4, DOI: https://doi.org/10.3390/info13040193.
 
 1. Romain Deveaud, Josiane Mothe, _**Md Zia Ullah**_, Jian-Yun Nie (2019), Learning to Adaptively Rank Document Retrieval System Configurations, ACM Transactions of Information Systems (ACM TOIS), 41 pages, pp. 3 :1-3 :41, Volume 37, Issue 1, DOI: 10.1145/3231937. (IF: 2.627)
 
@@ -27,7 +29,7 @@ published: true
 5. _**Md Zia Ullah**_, Masaki Aono, and Md Hanif Seddiqui (2015), Estimating a Ranked List of Human Genetic Diseases by Associating Phenotype-Gene with Gene-Disease Bipartite Graphs, ACM Transactions on Intelligent System and Technology (ACM TIST), 21 pages, pp.56:1~56:21, Volume 6, Issue 4, DOI: 10.1145/2700487. (IF: 2.861)
 
 
-### International Conferences
+### International Conference Papers (Peer-Reviewed and Published)
 
 1. Josiane Mothe and _**Md Zia Ullah**_ (2021, November), Defining an Optimal Configuration Set for Selective Search Strategy – A Risk-Sensitive Approach, The 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Queensland, Australia.
 
