@@ -18,15 +18,15 @@ published: true
 
 1. Josiane Mothe, _**Md Zia Ullah**_, Guenter Okon, Thomas Schweer, Alfansos Juršenas, Justina Mandravickaite (2022), Instruments and Tools to Identify Radical Textual Content, MDPI Information, 28 pages, pp.1-28, Volume 13, Issue 4, DOI: https://doi.org/10.3390/info13040193.
 
-1. Romain Deveaud, Josiane Mothe, _**Md Zia Ullah**_, Jian-Yun Nie (2019), Learning to Adaptively Rank Document Retrieval System Configurations, ACM Transactions of Information Systems (ACM TOIS), 41 pages, pp. 3 :1-3 :41, Volume 37, Issue 1, DOI: 10.1145/3231937. (IF: 2.627)
+1. Romain Deveaud, Josiane Mothe, _**Md Zia Ullah**_, Jian-Yun Nie (2019), Learning to Adaptively Rank Document Retrieval System Configurations, ACM Transactions of Information Systems (ACM TOIS), 41 pages, pp. 3 :1-3 :41, Volume 37, Issue 1, DOI: https://doi.org/10.1145/3231937. (IF: 2.627)
 
-2. Abu Nowshed Chy, _**Md Zia Ullah**_, and Masaki Aono (2018), Query Expansion for Microblog Retrieval Focusing on an Ensemble of Features, Journal of Information Processing, 16 pages, pp. 61-76, Volume 27, Issue 4, 2, DOI: 10.2197/ipsjjip.27.61.
+2. Abu Nowshed Chy, _**Md Zia Ullah**_, and Masaki Aono (2018), Query Expansion for Microblog Retrieval Focusing on an Ensemble of Features, Journal of Information Processing, 16 pages, pp. 61-76, Volume 27, Issue 4, 2, DOI: https://doi.org/10.2197/ipsjjip.27.61.
 
-3. Abu Nowshed Chy, _**Md Zia Ullah**_, and Masaki Aono (2017), Microblog Retrieval Using Ensemble of Feature Sets through Supervised Feature Selection, IEICE Transactions on Information and Systems (IEICE TOIS), 13 pages, pp. 793-806, Volume E100-D, Issue 4, 2, DOI: 0.1587/transinf.2016DAP0032. (IF: 0.576)
+3. Abu Nowshed Chy, _**Md Zia Ullah**_, and Masaki Aono (2017), Microblog Retrieval Using Ensemble of Feature Sets through Supervised Feature Selection, IEICE Transactions on Information and Systems (IEICE TOIS), 13 pages, pp. 793-806, Volume E100-D, Issue 4, 2, DOI: https://doi.org/0.1587/transinf.2016DAP0032. (IF: 0.576)
  
-4. _**Md Zia Ullah**_ and Masaki Aono (2016), A Bipartite Graph-based Ranking Approach to Query Subtopics Diversification Focused on Word Embedding Features, IEICE Transactions on Information and Systems (IEICE TOIS), 11 pages, pp. 3090-3100, Volume E99-D, Issue 12, DOI: 10.1587/transinf.2016EDP7190. (IF: 0.576)
+4. _**Md Zia Ullah**_ and Masaki Aono (2016), A Bipartite Graph-based Ranking Approach to Query Subtopics Diversification Focused on Word Embedding Features, IEICE Transactions on Information and Systems (IEICE TOIS), 11 pages, pp. 3090-3100, Volume E99-D, Issue 12, DOI: https://doi.org/10.1587/transinf.2016EDP7190. (IF: 0.576)
  
-5. _**Md Zia Ullah**_, Masaki Aono, and Md Hanif Seddiqui (2015), Estimating a Ranked List of Human Genetic Diseases by Associating Phenotype-Gene with Gene-Disease Bipartite Graphs, ACM Transactions on Intelligent System and Technology (ACM TIST), 21 pages, pp.56:1~56:21, Volume 6, Issue 4, DOI: 10.1145/2700487. (IF: 2.861)
+5. _**Md Zia Ullah**_, Masaki Aono, and Md Hanif Seddiqui (2015), Estimating a Ranked List of Human Genetic Diseases by Associating Phenotype-Gene with Gene-Disease Bipartite Graphs, ACM Transactions on Intelligent System and Technology (ACM TIST), 21 pages, pp.56:1~56:21, Volume 6, Issue 4, DOI: https://doi.org/10.1145/2700487. (IF: 2.861)
 
 
 ### International Conference Papers (Peer-Reviewed and Published)
