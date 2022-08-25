@@ -153,3 +153,17 @@ published: true
 
 
 ### Docker container
+
+
+### A few useful commands
+## To list existing Jupyter virtual environments
+jupyter kernelspec list
+
+## To list existing conda environments
+conda env list
+
+## To remove conda environment
+conda env remove -n 'environment_name'
+
+## To remove the environment from Jupyter
+jupyter kernelspec uninstall 'environment_name'
