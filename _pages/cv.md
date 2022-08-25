@@ -14,7 +14,15 @@ published: true
 
 APPOINTMENTS
 ===============
-* **September 2019 ~ Present: Postdoctoral Researcher**  
+* **June 2022 ~ Present: Postdoctoral Researcher**  
+
+    Institut de Recherche en Informatique de Toulouse (IRIT),            
+    Universite Toulouse Jean Jaures (UT2J),  
+    Toulouse, France.
+    Working on: Information retrieval, Natural language processing, Information extraction, Applied machine learning, and Deep Learning  
+    Supervisor : Professor Josiane Mothe
+
+* **September 2019 ~ Decmber 2021: Postdoctoral Researcher**  
 
     Institut de Recherche en Informatique de Toulouse (IRIT),            
     Centre national de la recherche scientifique (CNRS),  
@@ -103,8 +111,8 @@ RESEARCH INTERESTS
 
 TECHNICAL SKILLS
 ================
-* **Programming Languages**: Python, Java, R, Ruby, C/C++, PHP, AWK
-* **Deep Learning Frameworks**: TensorFlow, PyTorch, Caffe
+* **Programming Languages**: Python, Java, R, Ruby, C/C++, AWK
+* **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch, Caffe
 * **Machine Learning Framework**: RankLib, SVM-rank, Scikit-learn
 * **Search Engine/IR Tools**: Indri IR, Terrier IR, Lucene, Elastic-Search
 * **Web application development**: Python-Flask, RESTful-API, RabbitMQ, PHP, JS, CSS
