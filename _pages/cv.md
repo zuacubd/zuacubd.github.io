@@ -14,7 +14,15 @@ published: true
 
 APPOINTMENTS
 ===============
-* **June 2022 ~ Present: Postdoctoral Researcher**  
+* **November 2022 ~ Present: Lecturer** 
+
+    School of Computing,
+    Edinburgh Napier University,  
+    Edinburgh, UK.
+    Working on: Information retrieval, Natural language processing, Data Science, Information extraction, Applied machine learning, and Deep Learning
+    Lecturing: Data wrangling and Scripting for Data Science
+
+* **June 2022 ~ October 2022: Postdoctoral Researcher**  
 
     Institut de Recherche en Informatique de Toulouse (IRIT),            
     Universite Toulouse Jean Jaures (UT2J),  
