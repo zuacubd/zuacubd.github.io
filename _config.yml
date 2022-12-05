@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-fr"
+locale                   : "en-uk"
 title                    : "Md Zia Ullah"
 title_separator          : "-"
 name                     : &name "Md Zia Ullah"
-description              : &description "Post-doc at IRIT CNRS, Toulouse, France"
+description              : &description "Lecturer in the School of Computing at Edinburgh Napier University, Edinburgh, UK"
 url                      : https://zuacubd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zuacubd.github.io"
@@ -81,8 +81,8 @@ author:
   name             : "Md Zia Ullah"
   avatar           : "new_profile.jpg"
   #avatar           : "profile_pic.jpg"
-  bio              : "Post-doc at IRIT CNRS. Research interests in Information Retrieval (IR), Natural Language Processing (NLP), Graph, Applied Machine Learning (ML), and Deep Learning (DL)"
-  location         : "Toulouse, France"
+  bio              : "Lecturer in the School of Computing at Edinburgh Napier University. Research interests in Information Retrieval (IR), Natural Language Processing (NLP), Graph, Applied Machine Learning (ML), and Deep Learning (DL)"
+  location         : "Edinburgh, UK"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=jmF_XnQAAAAJ&hl=en"
   email            : "mdzia-DOT-ullah-At-irit-DOT-fr"
