@@ -6,60 +6,64 @@ published: true
 ---
 ### Patents
 
-1. Josiane Mothe and _**Md Zia Ullah**_, Apparatus and Method for Information Retrieval using a Set of Pre-selected Search Configurations using Efficiency and Risk Functions, *19305984.7*, European Patent, 2019
+1. Josiane Mothe and _**Md Zia Ullah**_, Apparatus and Method for Information Retrieval using a Set of Pre-selected Search Configurations using Efficiency and Risk Functions, *19305984.7*, European Patent, 2019.
 
 
 ### Book Chapters
 
-1. _**Md Zia Ullah**_ et al., Comparison of machine learning models for -early- depression detection from users’ posts, Springer, 2021 (In production)
+1. Josiane Mothe, Faneva Ramiandrisoa, and _**Md Zia Ullah**_, Comparison of machine learning models for early depression detection from users’ posts, Early Detection of Mental Health Disorders by Social Media Monitoring: The First Five Years of the eRisk Project, pp. 111--139, Springer, 2022.
 
 
 ### Journal Articles (Peer-Reviewed and Published)
 
-1. Josiane Mothe, _**Md Zia Ullah**_, Guenter Okon, Thomas Schweer, Alfansos Juršenas, Justina Mandravickaite (2022), Instruments and Tools to Identify Radical Textual Content, MDPI Information, 28 pages, pp.1-28, Volume 13, Issue 4, DOI: https://doi.org/10.3390/info13040193.
+1. Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy, _**Md Zia Ullah**_, and Masaki Aono (2023), Leveraging contextual representations with BiLSTM-based regressor for lexical complexity prediction, Natural Language Processing Journal, 100039 pages, pp. 3 :1-3 :41, Volume 5, Issue 1, DOI: {https://doi.org/10.1016/j.nlp.2023.100039 (IF: )
 
-1. Romain Deveaud, Josiane Mothe, _**Md Zia Ullah**_, Jian-Yun Nie (2019), Learning to Adaptively Rank Document Retrieval System Configurations, ACM Transactions of Information Systems (ACM TOIS), 41 pages, pp. 3 :1-3 :41, Volume 37, Issue 1, DOI: https://doi.org/10.1145/3231937. (IF: 2.627)
+2. Josiane Mothe and _**Md Zia Ullah**_ (2023), Selective Query Processing: A Risk-Sensitive Selection of Search Configurations, ACM Transactions of Information Systems (ACM TOIS), 35 pages, Volume 42, Issue 1, DOI: https://doi.org/10.1145/3608474. (IF: 2.627)
 
-2. Abu Nowshed Chy, _**Md Zia Ullah**_, and Masaki Aono (2018), Query Expansion for Microblog Retrieval Focusing on an Ensemble of Features, Journal of Information Processing, 16 pages, pp. 61-76, Volume 27, Issue 4, 2, DOI: https://doi.org/10.2197/ipsjjip.27.61.
+3. Josiane Mothe, _**Md Zia Ullah**_, Guenter Okon, Thomas Schweer, Alfansos Juršenas, Justina Mandravickaite (2022), Instruments and Tools to Identify Radical Textual Content, MDPI Information, 28 pages, pp.1-28, Volume 13, Issue 4, DOI: https://doi.org/10.3390/info13040193.
 
-3. Abu Nowshed Chy, _**Md Zia Ullah**_, and Masaki Aono (2017), Microblog Retrieval Using Ensemble of Feature Sets through Supervised Feature Selection, IEICE Transactions on Information and Systems (IEICE TOIS), 13 pages, pp. 793-806, Volume E100-D, Issue 4, 2, DOI: https://doi.org/0.1587/transinf.2016DAP0032. (IF: 0.576)
+4. Romain Deveaud, Josiane Mothe, _**Md Zia Ullah**_, Jian-Yun Nie (2019), Learning to Adaptively Rank Document Retrieval System Configurations, ACM Transactions of Information Systems (ACM TOIS), 41 pages, pp. 3 :1-3 :41, Volume 37, Issue 1, DOI: https://doi.org/10.1145/3231937. (IF: 2.627)
+
+5. Abu Nowshed Chy, _**Md Zia Ullah**_, and Masaki Aono (2018), Query Expansion for Microblog Retrieval Focusing on an Ensemble of Features, Journal of Information Processing, 16 pages, pp. 61-76, Volume 27, Issue 4, 2, DOI: https://doi.org/10.2197/ipsjjip.27.61.
+
+6. Abu Nowshed Chy, _**Md Zia Ullah**_, and Masaki Aono (2017), Microblog Retrieval Using Ensemble of Feature Sets through Supervised Feature Selection, IEICE Transactions on Information and Systems (IEICE TOIS), 13 pages, pp. 793-806, Volume E100-D, Issue 4, 2, DOI: https://doi.org/0.1587/transinf.2016DAP0032. (IF: 0.576)
  
-4. _**Md Zia Ullah**_ and Masaki Aono (2016), A Bipartite Graph-based Ranking Approach to Query Subtopics Diversification Focused on Word Embedding Features, IEICE Transactions on Information and Systems (IEICE TOIS), 11 pages, pp. 3090-3100, Volume E99-D, Issue 12, DOI: https://doi.org/10.1587/transinf.2016EDP7190. (IF: 0.576)
+7. _**Md Zia Ullah**_ and Masaki Aono (2016), A Bipartite Graph-based Ranking Approach to Query Subtopics Diversification Focused on Word Embedding Features, IEICE Transactions on Information and Systems (IEICE TOIS), 11 pages, pp. 3090-3100, Volume E99-D, Issue 12, DOI: https://doi.org/10.1587/transinf.2016EDP7190. (IF: 0.576)
  
-5. _**Md Zia Ullah**_, Masaki Aono, and Md Hanif Seddiqui (2015), Estimating a Ranked List of Human Genetic Diseases by Associating Phenotype-Gene with Gene-Disease Bipartite Graphs, ACM Transactions on Intelligent System and Technology (ACM TIST), 21 pages, pp.56:1~56:21, Volume 6, Issue 4, DOI: https://doi.org/10.1145/2700487. (IF: 2.861)
+8. _**Md Zia Ullah**_, Masaki Aono, and Md Hanif Seddiqui (2015), Estimating a Ranked List of Human Genetic Diseases by Associating Phenotype-Gene with Gene-Disease Bipartite Graphs, ACM Transactions on Intelligent System and Technology (ACM TIST), 21 pages, pp.56:1~56:21, Volume 6, Issue 4, DOI: https://doi.org/10.1145/2700487. (IF: 2.861)
 
 
 ### International Conference Papers (Peer-Reviewed and Published)
 
-1. Josiane Mothe and _**Md Zia Ullah**_ (2021, November), Defining an Optimal Configuration Set for Selective Search Strategy – A Risk-Sensitive Approach, The 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Queensland, Australia.
+1. Adrian-Gabriel Chifu, Déjean, S., Garouani, M., Mothe, J., Ortiz, D., _**Md Zia Ullah**_ (2024). Can We Predict QPP? An Approach Based on Multivariate Outliers. In: Goharian, N., et al. Advances in Information Retrieval. ECIR 2024. Lecture Notes in Computer Science, vol 14610. Springer, Cham.
 
-2. Adrian-Gabriel Chifu, Josiane Mothe, and _**Md Zia Ullah**_ (2020, March), Fair Exposure of Documents in Information Retrieval: a Community Detection Approach, CIRCLE 2020, Toulouse, France.
+2. Josiane Mothe and _**Md Zia Ullah**_ (2021, November), Defining an Optimal Configuration Set for Selective Search Strategy – A Risk-Sensitive Approach, The 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Queensland, Australia.
+
+3. Adrian-Gabriel Chifu, Josiane Mothe, and _**Md Zia Ullah**_ (2020, March), Fair Exposure of Documents in Information Retrieval: a Community Detection Approach, CIRCLE 2020, Toulouse, France.
   
-3. Konstantinos Demestichas, Thi Bich Ngoc Hoang, Josiane Mothe, Olivier Teste, and _**Md Zia Ullah**_ (2020, March), Prediction and Visual Intelligence for Security Information: The Prevision H2020 Project, CIRCLE 2020, Toulouse, France.
+4. Konstantinos Demestichas, Thi Bich Ngoc Hoang, Josiane Mothe, Olivier Teste, and _**Md Zia Ullah**_ (2020, March), Prediction and Visual Intelligence for Security Information: The Prevision H2020 Project, CIRCLE 2020, Toulouse, France.
  
-4. Sébastien Déjean, Radu Tudor Ionescu, Josiane Mothe, and _**Md Zia Ullah**_ (2020, March), Forward and backward feature selection for query performance prediction, ACM SAC 2020, pp. 690-697, Brno, Czech Republic. 
+5. Sébastien Déjean, Radu Tudor Ionescu, Josiane Mothe, and _**Md Zia Ullah**_ (2020, March), Forward and backward feature selection for query performance prediction, ACM SAC 2020, pp. 690-697, Brno, Czech Republic. 
 
-5. Sébastien Déjean, Josiane Mothe, and _**Md Zia Ullah**_ (2019, September), Studying the Variability of System Setting Effectiveness by Data Analytics and Visualization, International Conference of the Cross-Language Evaluation Forum for European Languages (CLEF2019), pp. 62-74, Lugano, Switzerland. 
+6. Sébastien Déjean, Josiane Mothe, and _**Md Zia Ullah**_ (2019, September), Studying the Variability of System Setting Effectiveness by Data Analytics and Visualization, International Conference of the Cross-Language Evaluation Forum for European Languages (CLEF2019), pp. 62-74, Lugano, Switzerland. 
  
-6. Cédric Lespagnol, Josiane Mothe, and _**Md Zia Ullah**_ (2019, July), Information Nutritional Label and Word Embedding to Estimate Information Check-Worthiness, The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2019), pp. , Paris, France. (In press) (Acceptance rate: 24.4%)
+7. Cédric Lespagnol, Josiane Mothe, and _**Md Zia Ullah**_ (2019, July), Information Nutritional Label and Word Embedding to Estimate Information Check-Worthiness, The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2019), pp. , Paris, France. (In press) (Acceptance rate: 24.4%)
 
-7. Stefano Mizzaro, Josiane Mothe, Kevin Roitero, and _**Md Zia Ullah**_ (2018, July), Query Performance Prediction and Effectiveness Evaluation Without Relevance Judgments: Two Sides of the Same Coin, The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018), pp. 1233-1236, Ann Arbor, MI, USA. (Acceptance rate: 30%)
+8. Stefano Mizzaro, Josiane Mothe, Kevin Roitero, and _**Md Zia Ullah**_ (2018, July), Query Performance Prediction and Effectiveness Evaluation Without Relevance Judgments: Two Sides of the Same Coin, The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018), pp. 1233-1236, Ann Arbor, MI, USA. (Acceptance rate: 30%)
  
-8. Adrian-Gabriel Chifu, Lea Laporte, Josiane Mothe, and _**Md Zia Ullah**_ (2018, July), Query Performance Prediction Focused on Summarized Letor Features, The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018), pp. 1177-1180, Ann Arbor, MI, USA, DOI:10.1145/3209978.3210121. (Acceptance rate: 30%)
+9. Adrian-Gabriel Chifu, Lea Laporte, Josiane Mothe, and _**Md Zia Ullah**_ (2018, July), Query Performance Prediction Focused on Summarized Letor Features, The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018), pp. 1177-1180, Ann Arbor, MI, USA, DOI:10.1145/3209978.3210121. (Acceptance rate: 30%)
  
-9. Serge Molina, Josiane Mothe, Dorian Roques, Ludovic Tanguy, and _**Md Zia Ullah**_ (2017, September), IRIT QFR: IRIT Query Feature Resource. International Conference of the Cross-Language Evaluation Forum for European Languages (CLEF2017), pp. 69-81, Dublin, Ireland, DOI:10.1007/978-3-319-65813-1_6.
+10. Serge Molina, Josiane Mothe, Dorian Roques, Ludovic Tanguy, and _**Md Zia Ullah**_ (2017, September), IRIT QFR: IRIT Query Feature Resource. International Conference of the Cross-Language Evaluation Forum for European Languages (CLEF2017), pp. 69-81, Dublin, Ireland, DOI:10.1007/978-3-319-65813-1_6.
 
-10. _**Md Zia Ullah**_, Abu Nowshed Chy, and Masaki Aono (2016, November), Query Subtopic Mining Exploiting Word Embedding for Search Result Diversification, Twelfth Asia Information Retrieval Societies Conference(AIRS 2016), pp. 308-314, Beijing, China, DOI: 10.1007/978-3-319-48051-0_24. (Best Presentation Award) (Acceptance rate: 45%)
+11. _**Md Zia Ullah**_, Abu Nowshed Chy, and Masaki Aono (2016, November), Query Subtopic Mining Exploiting Word Embedding for Search Result Diversification, Twelfth Asia Information Retrieval Societies Conference(AIRS 2016), pp. 308-314, Beijing, China, DOI: 10.1007/978-3-319-48051-0_24. (Best Presentation Award) (Acceptance rate: 45%)
  
-11. Abu Nowshed Chy, _**Md Zia Ullah**_, and Masaki Aono (2015, August), Combining Temporal and Content-Aware Features for Microblog Retrieval, IEEE International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA 2015), pp. 1-6, Chonburi, Thailand, DOI:10.1109/ICAICTA.2015.7335353. (Best Paper Award) (Acceptance rate: 69.8%)
+12. Abu Nowshed Chy, _**Md Zia Ullah**_, and Masaki Aono (2015, August), Combining Temporal and Content-Aware Features for Microblog Retrieval, IEEE International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA 2015), pp. 1-6, Chonburi, Thailand, DOI:10.1109/ICAICTA.2015.7335353. (Best Paper Award) (Acceptance rate: 69.8%)
  
-12. _**Md Zia Ullah**_ and Masaki Aono (2014, August), Query Subtopic Mining for Search Result Diversification, IEEE International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA 2014), pp. 309-314, Bandung, Indonesia, DOI: 10.1109/ICAICTA.2014. 7005960. (Acceptance rate: 47%)
+13. _**Md Zia Ullah**_ and Masaki Aono (2014, August), Query Subtopic Mining for Search Result Diversification, IEEE International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA 2014), pp. 309-314, Bandung, Indonesia, DOI: 10.1109/ICAICTA.2014. 7005960. (Acceptance rate: 47%)
  
-13. Ismat Ara Reshma, _**Md Zia Ullah**_, and Masaki Aono (2014, August), Ontology-based Classification for Multi-label Image Annotation, IEEE International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA 2014), pp. 226-231, Bandung, Indonesia, DOI:10.1109/ICAICTA.2014.7005945. (Best Paper Award) (Acceptance rate: 47%)
+14. Ismat Ara Reshma, _**Md Zia Ullah**_, and Masaki Aono (2014, August), Ontology-based Classification for Multi-label Image Annotation, IEEE International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA 2014), pp. 226-231, Bandung, Indonesia, DOI:10.1109/ICAICTA.2014.7005945. (Best Paper Award) (Acceptance rate: 47%)
 
-14. _**Md Zia Ullah**_, Masaki Aono, and Md Hanif Seddiqui (2013, July), Estimating a Ranked List of Human Hereditary Diseases for Clinical Phenotypes by Using Weighted Bipartite Networks, 35th IEEE International Conference on Engineering in Medicine and Biology Society (EMBS), pp. 3475-3478, Osaka, Japan, DOI:10.1109/EMBC.2013.6610290. (Acceptance rate: 40%)
-
-
+15. _**Md Zia Ullah**_, Masaki Aono, and Md Hanif Seddiqui (2013, July), Estimating a Ranked List of Human Hereditary Diseases for Clinical Phenotypes by Using Weighted Bipartite Networks, 35th IEEE International Conference on Engineering in Medicine and Biology Society (EMBS), pp. 3475-3478, Osaka, Japan, DOI:10.1109/EMBC.2013.6610290. (Acceptance rate: 40%)
 
 ### International Workshops
 
