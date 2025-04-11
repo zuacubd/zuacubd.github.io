@@ -14,13 +14,13 @@ published: true
 
 APPOINTMENTS
 ===============
-* **November 2022 ~ Present: Lecturer** 
+* **November 2022 ~ Present: Lecturer (Assitant Professor)** 
 
     School of Computing,
     Edinburgh Napier University,  
     Edinburgh, UK.
-    Working on: Information retrieval, Natural language processing, Data Science, Information extraction, Applied machine learning, and Deep Learning
-    Lecturing: Data wrangling and Scripting for Data Science
+    Working on: Information retrieval, Natural language processing, Applied machine learning, and Deep Learning
+    Lecturing: Algorithms and Data Structures, Advanced machine learning, Machine learning for conversational AI, Data processing and management, Data wrangling, and Scripting for Data Science (Python)
 
 * **June 2022 ~ October 2022: Postdoctoral Researcher**  
 
@@ -100,35 +100,42 @@ RESEARCH INTERESTS
 **Information retrieval (IR)**
   * Adaptive information retrieval
   * Query performance prediction
-  * Query expansion
-  * Diversification
+  * Contextual query expansion
+  * Diversification (ranking)
   * Short-text retrieval and ranking
-  * Learning to rank
   * Fair ranking
   * Bipartite graph-based ranking
   * Conversational information retrieval
+  * Ambiguous query classification
+  * Query understanding
 
 **Natural language processing (NLP)**
   * Check-worthy claim prediction
   * Embedding-based data representation
   * Search intent mining
   * Social media analysis
+  * Skill extraction and matching
 
 **Applied machine learning**, and  
+  * Learning to rank
+  * Classification and regression
+  * Causal machine learning
+  * Clustering
+    
 **Deep learning for Information retrieval**
+  * Neural network
+  * Convolutional neural networks (Resnet),
+  * LSTM, Bi-LSTM
+  * Transformers
+  * Graph nueral networks
+  * Multimodal conversational interaction
+  * Neural ranker
 
 TECHNICAL SKILLS
 ================
 * **Programming Languages**: Python, Java, R, Ruby, C/C++, AWK
-* **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch, Caffe
+* **Deep Learning Frameworks**: PyTorch, Tensorflow
 * **Machine Learning Framework**: RankLib, SVM-rank, Scikit-learn
 * **Search Engine/IR Tools**: Indri IR, Terrier IR, Lucene, Elastic-Search
 * **Web application development**: Python-Flask, RESTful-API, RabbitMQ, PHP, JS, CSS
 * **Other Tools**: Docker, Singularity
-
-<!--Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
