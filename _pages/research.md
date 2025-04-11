@@ -6,6 +6,7 @@ author_profile: true
 published: true
 ---
 
+[**Not updated since 2022. It will be updated soon**]
 
 My research has focused on adaptive information retrieval, query performance prediction, query expansion, embedding-based data representation, search intent mining and result diversification, bipartite graph-based ranking, and Deep learning for IR. I am always interested in expanding my research area in other related areas. I am also conducting research on natural language processing and social media analysis. My current and past research projects are briefly described as follows:
 
