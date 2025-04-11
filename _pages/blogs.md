@@ -1,45 +1,45 @@
 ---
-title: Blogs (Useful commands)
+title: Blogs (Useful commands for me)
 permalink: /blogs/
 author_profile: true
 published: true
 ---
 
-### Linux OS Useful Commands
+## Linux OS Useful Commands
 
-###### List all directories with size:
+### List all directories with size:
 
 `du -sh *`
 
-###### Find all files containg a string 'pathlib" and ending with ".py", for example:
+### Find all files containg a string 'pathlib" and ending with ".py", for example:
 
 `find . -name '*.py' -exec grep -H 'pathlib' {} +`
 
-###### Join two files vertically:
+### Join two files vertically using awk:
 
 `awk 'NF' file1 file > result`
 
-###### Move some particular files from one directory to another using AWK:
+### Move some particular files from one directory to another using AWK:
 
 `ll | awk -F' ' '{if($5<=20 && NF>=9) {cmd="mv "$9" ../backup/"$9; system(cmd) } }'`
 
-###### Choose the first row and then print the parts (sed and AWK):
+### Choose the first row and then print the parts (sed and AWK):
 
 `sed -n '1p' /*/*/COVID21_Expansion_all.mat | awk -F ' ' '{for(i=1;i<=NF;i++) print i":"$i; }'`
 
-###### Make symbolic link between two files:
+### Make symbolic link between two files:
 
 `ln -s source_file new_file`
 
-###### Split a files into parts:
+### Split a files into parts:
 
 `split -l 50000 fused-run/combsum_runs fused-run/`
 
-###### Install softwares in a folder:
+### Install softwares in a folder:
 
 `easy_install --prefix=$HOME/local package_name`
 
-###### Install a software package in linux (Configure, Make, and Make Install):
+### Install a software package in linux (Configure, Make, and Make Install):
 
 `./configure --prefix=<instalation directory>`
 
@@ -75,29 +75,31 @@ published: true
 
 ### Working with Git
 
-###### Initiate a git project:
+#### Initiate a git project:
 
 `git init`
 
-###### Add file(s) to staging for committing:
+#### Add file(s) to staging for committing:
 
 `git add <filename>`
 
 `git add --all #all files and folder`
 
-###### Commit:
+#### Commit:
 
 `git commit -m "message"`
 
-###### Push to a remote repository:
+#### Push to a remote repository:
 
 `git remote add origin https://github.com/zuacubd/xxxxx.git`
 
-`git push -u origin master`
+`git push -u origin master` or 
+`git push origin main` if you want to push it the main branch
 
-###### Pull from a remote repository:
+#### Pull from a remote repository:
 
-`git pull https://github.com/zuacubd/xxxxx.git`
+`git pull https://github.com/zuacubd/xxxxx.git` or
+`git pull origin main --rebase` if both remote and local have the same branch
 
 ### Useful R commands
 
