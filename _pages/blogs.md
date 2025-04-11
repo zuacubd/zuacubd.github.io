@@ -1,5 +1,5 @@
 ---
-title: Blogs (Useful commands for me)
+title: Blogs (Useful commands)
 permalink: /blogs/
 author_profile: true
 published: true
@@ -94,11 +94,13 @@ published: true
 `git remote add origin https://github.com/zuacubd/xxxxx.git`
 
 `git push -u origin master` or 
+
 `git push origin main` if you want to push it the main branch
 
 #### Pull from a remote repository:
 
 `git pull https://github.com/zuacubd/xxxxx.git` or
+
 `git pull origin main --rebase` if both remote and local have the same branch
 
 ### Useful R commands
