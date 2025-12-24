@@ -10,42 +10,28 @@ published: true
 
 {% include base_path %}
 
-[Complete CV](https://zuacubd.github.io/files/CV.pdf) 
+[Complete CV](https://zuacubd.github.io/files/CV_2025.pdf) 
+
 
 APPOINTMENTS
 ===============
 * **November 2022 ~ Present: Lecturer (Assitant Professor)** 
 
-    School of Computing,
+    Computer Science, SCEBE,
     Edinburgh Napier University,  
     Edinburgh, UK.
     Working on: Information retrieval, Natural language processing, Applied machine learning, and Deep Learning
-    Lecturing: Algorithms and Data Structures, Advanced machine learning, Machine learning for conversational AI, Data processing and management, Data wrangling, and Scripting for Data Science (Python)
+    Lecturing: Algorithms and Data Structures, Advanced machine learning, Machine learning for conversational AI, Data processing and management, Data wrangling, and Scripting for Natural Language Processing
 
-* **June 2022 ~ October 2022: Postdoctoral Researcher**  
+* **June 2017 ~ October 2022: Postdoctoral Researcher** 
 
     Institut de Recherche en Informatique de Toulouse (IRIT),            
-    Universite Toulouse Jean Jaures (UT2J),  
+    Universite Toulouse Jean Jaures (UT2J),
+    Centre national de la recherche scientifique (CNRS),
+    Université Toulouse III – Paul Sabatier,
     Toulouse, France.
-    Working on: Information retrieval, Natural language processing, Information extraction, Applied machine learning, and Deep Learning  
-    Supervisor : Professor Josiane Mothe
-
-* **September 2019 ~ Decmber 2021: Postdoctoral Researcher**  
-
-    Institut de Recherche en Informatique de Toulouse (IRIT),            
-    Centre national de la recherche scientifique (CNRS),  
-    Toulouse, France.  
-    Worked on: Information retrieval, Natural language processing, Information extraction, Network analysis, and Applied machine learning  
-    Project: EU H2020 PREVISION  
-    Supervisor : Professor Josiane Mothe  
-
-* **April 2017 ~ August 2019: Postdoctoral Researcher**  
-
-    Institut de Recherche en Informatique de Toulouse (IRIT),  
-    Université Toulouse III – Paul Sabatier,  
-    Toulouse, France.  
-    Worked on: Information retrieval, data analysis, and Applied machine learning  
-    Project: EU H2020 FabSpace 2.0  
+    Worked on: Information retrieval, Natural language processing, Information extraction, Applied machine learning, and Deep Learning, Information extraction, Network Analysis, and Data Analytics  
+    Projects: EU H2020 PREVISION and EU H2020 FabSpace 2.0
     Supervisor : Professor Josiane Mothe
 
 * **January 2017 ~ March 2017: Assistant Professor**  
@@ -74,6 +60,7 @@ APPOINTMENTS
     Proggasoft Limited,  
     Dhaka, Bangladesh.
     Worked on: Web application development using PHP, MySQL, JS, CSS
+
 
 EDUCATION
 =========
